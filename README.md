@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* My Blog: [https://7att1ce.xyz](https://7att1ce.xyz)
+* My Blog: [https://latt1ce.xyz](https://latt1ce.xyz)
